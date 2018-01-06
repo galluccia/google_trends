@@ -1,7 +1,6 @@
 from pytrends.request import TrendReq
 
 google_username = 'galluccia@gmail.com'
-google_password = 'Godfather-19'
 
 pytrend = TrendReq(google_username, google_password, custom_useragent='My Pytrends Script')
 
